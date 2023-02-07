@@ -1,0 +1,215 @@
+Python 3.11.x - latest version - www.python.org
+
+Python 3.9.x
+
+---------------------------------------------------
+
+versions
+--------
+2.x  and  3.x
+--------------
+
+2.x =>	print "hello"
+
+3.x =>	print("Hello")
+
+
+Flavours of Python
+------------------
+CPython	-	currently using
+
+Jython	-	Python code to java
+
+Iron Python - dotnet libraries
+
+
+Python 3.11.x
+--------------
+1. SDK - libraries necessary to execute python code
+
+2. Shell - Interactive Environment
+
+3. IDLE - Editor
+
+
+Editor
+------
+1. Pycharm CE opensource
+
+2. VS code CE
+
+3. Eclipse 
+
+4. Sublimetext
+
+5. Jupyter - ML
+
+
+Python - Scripting tool
+-----------------------
+1. Interpreted
+
+
+2. Data type  - Loosely coupled
+
+
+program
+-------
+Explicit decleration
+int i		=> compilation time
+
+
+Scripts
+-------
+Implicit decleration
+i = 10	=> runtime time
+
+
+i = "hello"
+
+
+Python shell
+------------
+
+Two operators that is overloaded in python
+
+1. + 	=> addition and concatenation
+
+2. *  => multiplication and to print a string n number of times
+
+
+lhs + rhs	= data type of lhs and rhs should be the same
+
+
+2.x
+---
+Numbers
+	a. integer
+	b. long
+	c. float
+	d. complex
+
+3.x
+---
+
+
+import os => all functions will be imported
+
+os.getcwd()
+
+
+from os import cpu_count
+
+cpu_count()
+
+
+from imp import reload
+
+
+Module = imp
+
+function = reload
+
+
+Language features
+------------------
+1. variables
+2. Primitive Data Types
+	a. Numbers
+		i) integers
+	  ii) float
+    iii) complex
+
+	b. strings
+	c. boolean
+
+3. Operators
+4. Loops and Control Structures
+5. Data Structures
+
+
+Bitwise Operators
+-----------------
+
+or
+--
+5 = 101
+3 = 011
+    ----
+    111			=>	7  => 1 + 2 + 4
+
+
+and
+---
+5 = 101
+3 = 011
+	 ---
+	 001			=>	1
+
+xor
+---
+5 = 101
+3 = 011
+    ---
+	 110			=> 6	 2 + 4
+
+<<
+---
+5 = 101 	=> 1010		=>	0 + 2 + 0 + 8 = 10
+
+8 = 1000 => 10000   => 2 ** 4 => 16
+
+5 - 101 => 10100		=>	4 + 16 => 20
+
+
+>>
+--
+16 = 10000  => 1000	 => 8
+
+5 = 101 => 10	=>	2
+
+
+Control Structures and loops
+----------------------------
+
+control structures 
+------------------
+1. if conditions
+
+
+Loops
+-----
+1. for loop
+2. while
+
+for loop = foreach loop
+
+which relies on a collection ->  range()
+
+
+range(1, 10) = 1...9
+
+range(10) => 0...9
+
+range(1, 15, 2) = 1, 3, 5, 7, ... 13
+
+range(10, 0, -1) = 10, 9, 8, 7.....1
+
+
+print
+-----
+print(data, sep=, end="\n")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
