@@ -1,0 +1,59 @@
+Strings
+-------
+can be eclosed in " " or ' '  - single line string
+
+
+we can add strings in """    """  or  '''  '''  - multiline string
+
+
+STRINGS ARE IMMUTABLE
+---------------------
+
+find, replace, maketrans, translate, strip, format
+
+
+Data Structures
+---------------
+1. lists
+2. dictionary
+3. tuples
+4. sets
+
+
+Lists
+-----
+Lists are very similar to arrays
+
+
+what is an Array?
+-----------------
+1. contigious memory allocation
+
+2. its a colletion homogenous data
+
+
+Lists
+-----
+1. lists are a collection of hetrogenous data
+
+2. memory allocation is not cotigious
+
+3. it is subscriptable - indexed
+
+4. its ordered collection
+
+5. they are mutable
+
+6. lists are enclosed in [ ]
+
+
+functions used to manipulate strings
+------------------------------------
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+
+
+
+
+
