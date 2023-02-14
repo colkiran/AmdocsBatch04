@@ -1,0 +1,80 @@
+Dictionary
+----------
+are also called as associative arrays
+
+
+array
+=====
+
+  0    1    2    3    4
+['a', 'b', 'c', 'd', 'e']
+
+
+dictionary
+----------
+{0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e'}
+
+
+keys - 0, 1, 2, 3, 4
+
+values = a, b, c, d, e
+
+
+1. keys are user defined, keys are always unique
+
+2. unordered collection
+
+3. dictionaries are mutable
+
+4. dictionaries are enclosed {k1: v1, k2: v2, k3: v3....}
+
+
+functions to manipulate dictionaries
+------------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+
+Tuple
+-----
+
+
+
+Sets
+----
+1. are collection of unique values
+
+2. its unordered collection
+
+3. sets are not subscriptable
+
+4. sets are mutable
+
+5. sets are enclosed in {}
+
+
+
+Functions
+----------
+
+what are functions
+------------------
+
+
+
+colkiran@gmail.com
+
+
+https://iihtlimited-my.sharepoint.com/:f:/g/personal/swetha_k_iiht_com/Es_1g6He9FRNnYg8oI0C-wUBC9gTC73tHRq1GGv04vdFvw?e=XgCnME
+
+
+
+
+
+
+
+
+
+
+
+
